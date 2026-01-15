@@ -9,21 +9,24 @@ My current interests relate to projects involving web development, software deve
 one thing I currently lack, I have dabbled in game development projects (INIT Build) and basic web development.
 
 ## 🛠 Technical Skills
-Basic Knowledge in Languages
+#### Basic Knowledge in Languages  
+-Python  
+-Java  
+-C#  
+#### Tools & Technologies  
+(Basic Knowledge)  
+-GoDot Engine  
+-VS Code  
+-GitHub  
 
--Python
--Java
--C#
-Tools & Technologies
-(Basic Knowledge)
--GoDot Engine
--VS Code
-# -GitHub
+## 🎯 To-Do List/Career Goals
+I thrive to achieve a couple of projects, and overall in my career hope to land a job in game development or software.  
+#### Projects:  
+-Mini Platformer Game (self made opposed to working in a larger team)  
+-Web based app (World cup winner)  
 
-## ✔️ To-Do List/Career Goals
-I thrive to achieve a couple of projects, and overall in my career hope to land a job in game development or software.
-Projects
--Mini Platformer Game (self made opposed to working in a larger team)
--Web based app (World cup winner)
-
+## 🌟Fun Facts
+Obviously love playing video games  
+Used to play soccer in an academy team  
+As much as I stay inside my room, I like exploring nature
 
