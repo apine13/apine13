@@ -19,7 +19,7 @@ Tools & Technologies
 -VS Code
 -GitHub
 
-## To-Do List/Career Goals
+## ✔️ To-Do List/Career Goals
 I thrive to achieve a couple of projects, and overall in my career hope to land a job in game development or software.
 Projects
 -Mini Platformer Game (self made opposed to working in a larger team)
