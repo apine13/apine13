@@ -9,14 +9,22 @@ My current interests relate to projects involving web development, software deve
 one thing I currently lack, I have dabbled in game development projects (INIT Build) and basic web development.
 
 ## 🛠 Technical Skills
-# Basic Knowledge in Languages
-# -Python
-# -Java
-# -C#
-# Tools & Technologies
-# (Basic Knowledge)
-# -GoDot Engine
-# -VS Code
+Basic Knowledge in Languages
+
+-Python
+
+-Java
+
+-C#
+
+Tools & Technologies
+
+(Basic Knowledge)
+
+-GoDot Engine
+
+-VS Code
+
 # -GitHub
 
 ## ✔️ To-Do List/Career Goals
