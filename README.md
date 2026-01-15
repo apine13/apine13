@@ -12,19 +12,12 @@ one thing I currently lack, I have dabbled in game development projects (INIT Bu
 Basic Knowledge in Languages
 
 -Python
-
 -Java
-
 -C#
-
 Tools & Technologies
-
 (Basic Knowledge)
-
 -GoDot Engine
-
 -VS Code
-
 # -GitHub
 
 ## ✔️ To-Do List/Career Goals
