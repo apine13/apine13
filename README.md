@@ -9,15 +9,15 @@ My current interests relate to projects involving web development, software deve
 one thing I currently lack, I have dabbled in game development projects (INIT Build) and basic web development.
 
 ## 🛠 Technical Skills
-Basic Knowledge in Languages
--Python
--Java
--C#
-Tools & Technologies
-(Basic Knowledge)
--GoDot Engine
--VS Code
--GitHub
+# Basic Knowledge in Languages
+# -Python
+# -Java
+# -C#
+# Tools & Technologies
+# (Basic Knowledge)
+# -GoDot Engine
+# -VS Code
+# -GitHub
 
 ## ✔️ To-Do List/Career Goals
 I thrive to achieve a couple of projects, and overall in my career hope to land a job in game development or software.
@@ -26,17 +26,3 @@ Projects
 -Web based app (World cup winner)
 
 
-<!--
-**apine13/apine13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
